@@ -2,6 +2,10 @@
 
 Happy to see you here. Hope we can collaborate on something..!!
 
+---
+### Who i am
+Aspiring full stack developer, who wants to learn new things and implement it on real world challanges..!! 
+
 <!--
 **darshan1059/darshan1059** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
