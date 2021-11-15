@@ -21,9 +21,9 @@ I have worked with .net technologies like asp.net and mvc.net.
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darshan1059&hide=java,html,css&theme=radical)](https://github.com/darshan1059/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darshan1059&theme=radical)](https://github.com/darshan1059/github-readme-stats)
 
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=darshan1059&theme=radical)](https://github.com/darshan1059/github-readme-stats)
+[![Chandra Darshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=darshan1059&theme=radical)](https://github.com/darshan1059/github-readme-stats)
 
 
 
