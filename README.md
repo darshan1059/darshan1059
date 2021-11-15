@@ -3,7 +3,7 @@
 Happy to see you here. Hope we can collaborate on something..!!
 
 ---
-### Who i am
+### Who i am 🤔
 Aspiring full stack developer, who wants to learn new things and implement it on real world challanges..!! 
 
 <!--
