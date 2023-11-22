@@ -8,8 +8,8 @@ Aspiring full stack developer, who wants to learn new things and implement it on
 
 I have worked with .net technologies like asp.net and mvc.net.
 
-- 🔭 I’m currently persuing pgdac from CDAC-ACTS.
-- 🌱 I’m currently learning full stack development.
+- 🔭 I’m currently working as a full stack dot net developer.
+- 🚀 I have completed PGDAC from CDAC-ACTS.
 
 ---
 
